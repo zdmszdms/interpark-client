@@ -1,0 +1,9 @@
+.footer {
+  position: relative;
+  height: 500px;
+}
+
+.footer-inner {
+  position: relative;
+  width: 1280px;
+}

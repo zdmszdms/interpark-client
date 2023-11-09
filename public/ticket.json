@@ -1,0 +1,70 @@
+{
+  "total": 8,
+  "ticket_1": {
+    "image": "images/ticket_1.gif",
+    "rank": 1,
+    "title": "태양의서커스 <루치아>",
+    "location": "잠실종합운동장 내 빅탑",
+    "date": "2023.10.25 ~ 2023.12.31",
+    "button": "좌석우위",
+    "url": "c.html"
+  },
+  "ticket_2": {
+    "image": "images/ticket_2.gif",
+    "rank": 2,
+    "title": "뮤지컬 <렌트>",
+    "location": "coex 신한카드 artium",
+    "date": "2023.11.11 ~ 2024.02.25",
+    "button": "단독판매",
+    "url": "c.html"
+  },
+  "ticket_3": {
+    "image": "images/ticket_3.gif",
+    "rank": 3,
+    "title": "뮤지컬 <레미제라블>",
+    "location": "블루스퀘어 신한카드홀",
+    "date": "2023.11.30 ~ 2024.03.10",
+    "button": "단독판매",
+    "url": "c.html"
+  },
+  "ticket_4": {
+    "image": "images/ticket_4.gif",
+    "rank": 4,
+    "title": "태양의서커스 <루치아> - 부산",
+    "location": "신세계 센텀시티 내 빅탑",
+    "date": "2024.01.13 ~ 2024.02.04",
+    "button": "좌석우위",
+    "url": "c.html"
+  },
+  "ticket_5": {
+    "image": "images/ticket_5.gif",
+    "rank": 5,
+    "title": "뮤지컬 <레베카> 10주년 기념공연",
+    "location": "블루스퀘어 신한카드홀",
+    "date": "2023.08.19 ~ 2023.11.19",
+    "button": "좌석우위",
+    "url": "c.html"
+  },
+  "ticket_6": {
+    "image": "images/ticket_6.gif",
+    "rank": 6,
+    "title": "뮤지컬 <딜쿠샤>",
+    "location": "국립정동극장 (서울)",
+    "date": "2023.12.07 ~ 2023.12.30",
+    "button": "단독판매",
+    "url": "c.html"
+  },
+  "ticket_7": {
+    "image": "images/ticket_7.gif",
+    "rank": 7,
+    "title": "뮤지컬 <판>",
+    "location": "대학로 TOM(티오엠) 1관",
+    "date": "2023.09.19 ~ 2023.11.26",
+    "button": "단독판매",
+    "url": "c.html"
+  },
+  "ticket_8": {
+    "image": "images/slide_end_bt.svg",
+    "url": "c.html"
+  }
+}
